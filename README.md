@@ -17,7 +17,7 @@ What make WMCC different from others?
  - WMCC Miner can be divided to 2 types:
  1. Mining worker - for mobile phone and desktop user
  2. Mining nodes - for desktop user only
- *Desktop user can be both Mining worker and Mining nodes.
+ #*Desktop user can be both mining worker and mining nodes.
  
  Planning:
  Current development is to complete the development of Main Core until 1 November 2017 (End of WMCC ICO).
